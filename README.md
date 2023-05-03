@@ -15,10 +15,10 @@ If anyone get helped reading this It would be grateful for me
 ### Deep learning (`Computer vision`)
 |Part|                             Topic                            | Git |  Colab |
 |--- |--------------------------------------------------------------|---- |--------|
-|01| ইমেজ ডাটা লোডিং, ফ্লাওয়ার ডাটাসেট, প্লট ইমেজ | [link](./vision/dl_computer_vision_part_1.ipynb) | [colab](https://bit.ly/2WEzPUe)|
-|02| ইমেজ ডাটা পাইপলাইন, Keras ImageDataGenerator, ওয়ান-হট এনকোডিং | [link](./vision/dl_computer_vision_part_2.ipynb)|[colab](https://bit.ly/2ygaeHO)|
-|03| ইমেজ ডাটা পাইপলাইন, tf.data , map ফাংশনের ব্যাবহার | [link](./vision/dl_computer_vision_part_3.ipynb) | [colab](https://bit.ly/2AF3zYy) | 
-|04| tf.data ও ImageDataGenerator এর মধ্যে তুলনা, ট্রেনিং টাইম স্পীড আপ করা, ডাটা ক্যাশিং | [link](./vision/dl_computer_vision_part_4.ipynb)|[colab](https://bit.ly/2ZqZzW3)
+|01| ইমেজ ডাটা লোডিং, ফ্লাওয়ার ডাটাসেট, প্লট ইমেজ | [link](./vision/dl_computer_vision_part_1.ipynb) | [colab](https://colab.research.google.com/github/amanullah-1/DL-Sneak-Peek/blob/master/vision/dl_computer_vision_part_1.ipynb)|
+|02| ইমেজ ডাটা পাইপলাইন, Keras ImageDataGenerator, ওয়ান-হট এনকোডিং | [link](./vision/dl_computer_vision_part_2.ipynb)|[colab](https://colab.research.google.com/github/amanullah-1/DL-Sneak-Peek/blob/master/vision/dl_computer_vision_part_2.ipynb)|
+|03| ইমেজ ডাটা পাইপলাইন, tf.data , map ফাংশনের ব্যাবহার | [link](./vision/dl_computer_vision_part_3.ipynb) | [colab](https://colab.research.google.com/github/amanullah-1/DL-Sneak-Peek/blob/master/vision/dl_computer_vision_part_3.ipynb) | 
+|04| tf.data ও ImageDataGenerator এর মধ্যে তুলনা, ট্রেনিং টাইম স্পীড আপ করা, ডাটা ক্যাশিং | [link](./vision/dl_computer_vision_part_4.ipynb)|[colab](https://colab.research.google.com/github/amanullah-1/DL-Sneak-Peek/blob/master/vision/dl_computer_vision_part_4.ipynb)
 |05| ইমেজ ডাটা পাইপলাইন tf.keras.utils.Sequence | [link](./vision/dl_computer_vision_part_5.ipynb) | [colab](https://colab.research.google.com/drive/12ACmzAawasOq_lEJU23s0DatOe8Qx9W2?usp=sharing)|
 |07| ফ্লাওয়ার ইমেজ ক্লাসিফিকেশন, সাবক্লাস মডেল, tf.keras.utils.Sequence | [link](./vision/dl_computer_vision_part_6.ipynb)|[colab](https://colab.research.google.com/drive/11f0B03QGshbNCiUhmrlYggxoqfx1qkfk?usp=sharing)|
 |08| কাস্টম লেয়ার কি ? কিভাবে কাস্টম লেয়ার  ডিজাইন করতে হয়| [link](./Writting_custom_layer.ipynb) | X |
