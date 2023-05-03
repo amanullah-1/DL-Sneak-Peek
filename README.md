@@ -32,7 +32,7 @@ If anyone get helped reading this It would be grateful for me
 ### Deep learning (`NLP`)
 |Part|                             Topic                            |Git   |Colab    |
 |--- |--------------------------------------------------------------|:----:|:--------:|
-|01|টোকেনাইজার কি এবং এটার বিভিন্ন প্রয়োগ | [link](./nlp/drive_into_tokenizer_part_1.ipynb) | [colab](https://bit.ly/31bh51g) |
+|01|টোকেনাইজার কি এবং এটার বিভিন্ন প্রয়োগ | [link](./nlp/drive_into_tokenizer_part_1.ipynb) | [colab](https://colab.research.google.com/github/amanullah-1/DL-Sneak-Peek/blob/master/vision/dl_computer_vision_part_1.ipynb) |
 |02|টোকেনাইজার এর আরও কিছু ব্যবহার | [lin k](./nlp/drive_into_tokenizer_part_2.ipynb) | [colab](https://bit.ly/3exnsjn) |
 
 ### ML Ops
